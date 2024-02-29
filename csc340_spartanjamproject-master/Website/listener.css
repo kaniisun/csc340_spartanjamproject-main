@@ -104,14 +104,14 @@ ul {
 }
 
 .box-background {
-   background-color: aqua;
+   background-color: rgb(20, 195, 195);
 }
 
 .box {
-   width: 250px;
+   width: 350px;
    border:  5px solid rgb(19, 11, 36);
    padding: 20px;
-   margin: 20px;
+   margin: 10px;
    background-color:rgb(33, 19, 64);
    border-radius: 10px;
 }
@@ -127,3 +127,19 @@ ul {
    font-size: 15px;
    text-align:left;
  }
+/* Style the submit button */
+div ol div button {
+   width: 60%;
+   height: 60%;
+   padding: 10px;
+   background: rgb(14, 39, 70);
+   color: white;
+   font-size: 11px;
+   border: 1px solid grey;
+   /* Prevent double borders */
+   cursor: pointer;
+}
+
+div ol div button:hover {
+   background: rgb(173, 167, 207);
+}
