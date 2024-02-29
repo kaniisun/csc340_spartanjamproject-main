@@ -51,10 +51,18 @@ p {
     font-size: 40px;
 }
 
+.under ul{
+    padding: 5px;
+    background: rgb(33, 19, 64);
+    border-radius: 10px;
+}
+
 .under ul li {
+    display: block;
     list-style: none;
     color: antiquewhite;
     position: flex;
+
 }
 
 .under ul li i {
@@ -69,12 +77,15 @@ i {
 }
 
 .bx-x {
-
-    left: 44%;
+    margin-top: -0.3%;
+    cursor: pointer;
+    left: 45%;
 }
 
 .bx-check {
-    left: 43%;
+    margin-top: -0.3%;
+    cursor: pointer;
+    left: 44%;
 
 }
 
@@ -82,3 +93,9 @@ i {
     top: 348px;
     right: 660px;
 }
+
+.bx-edit{
+    margin-top: -0.3%;
+    cursor: pointer;
+}
+

@@ -60,6 +60,7 @@ div div button:hover {
     border-right: 5px solid rgb(19, 11, 36);
     border-top: 5px solid rgb(19, 11, 36);
     background-color: rgb(33, 19, 64);
+    border-radius: 10px;
  }
 
  .library-form {
@@ -139,6 +140,7 @@ div div button:hover {
     margin: 20px;
 	margin-left: 775px;
     background-color: rgb(33, 19, 64);
+    border-radius: 10px;
  } 
  
 .artist-box {
@@ -149,6 +151,7 @@ div div button:hover {
    height: 100%;
    border: 7px solid rgb(19, 11, 36);
    background-color: rgb(33, 19, 64);
+   border-radius: 10px;
 }
 
 .main-box {
@@ -160,6 +163,7 @@ div div button:hover {
    border: 7px solid rgb(19, 11, 36);
    position: fixed;
    background-color: rgb(33, 19, 64);
+   border-radius: 10px;
 }
 
 .upload-box {
@@ -167,9 +171,10 @@ div div button:hover {
 	border-color: rgb(200,133,27);
 	margin-left: 135px;
 	margin-right: 325px;
-	margin-bottom: 150px;
+	margin-bottom: 250px;
     padding: 20px;
     background-color: rgb(255,183,27);
+    border-radius: 10px;
  } 
  
 .upload-form {

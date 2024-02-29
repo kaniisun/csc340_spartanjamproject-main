@@ -73,6 +73,7 @@ body {
 }
 
 #button1{
+    color: antiquewhite;
     position: fixed;
     top: 150px;
     left: 120px;
@@ -81,7 +82,7 @@ body {
     font-size: 25px;
     bottom: 650px;
     cursor: pointer;
-    background: rgb(255,183,27);
+    background: rgb(19, 11, 36);
     border-radius: 10px;
 }
 
@@ -89,11 +90,21 @@ body {
     position: fixed;
     width: 700px;
     height: 350px;
-    background: rgb(255,183,27);
+    background: rgb(19, 11, 36);
     padding: 30px 40px;
     left: 120px;
     bottom: 175px;
     font-size: 40px;
+    border-radius: 10px;
+}
+
+.textbox p{
+    color: antiquewhite;
+}
+
+.textbox ul{
+    padding: 40px;
+    background: rgb(33, 19, 64);
     border-radius: 10px;
 }
 

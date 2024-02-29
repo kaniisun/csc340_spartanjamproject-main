@@ -53,7 +53,7 @@ div div img {
 .grid-container2 {
     display: grid;
     grid-template-columns: auto auto;
-    background-color: rgba(65, 209, 82, 0.6);
+    background-color: rgb(19, 11, 36);
     padding: 10px;
 }
 
